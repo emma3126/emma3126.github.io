@@ -13,14 +13,14 @@ body {
 /* Navigation Bar Style */
 .topnav {
     overflow: hidden;
-    background-color: #4169e1;
+    background-color: #365E95;
 }
 
 /* topnav Links */
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #ffffff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -28,8 +28,8 @@ body {
 
 /* Change color on tobnav hover */
 .topnav a:hover {
-    background-color: #b0c4de;
-    color: black;
+    background-color: #88A1E1;
+    color: #ffffff;
 }
 
 /* Content */
