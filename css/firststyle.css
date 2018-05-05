@@ -4,11 +4,9 @@ body {
 
 /* Header Style */
 .header {
-    float: left;
-    left: 50px;
     background-color: #ffffff;
     padding: 1px;
-    /*text-align: left;*/
+    text-align: left;
     height: 100px;
 }
 
