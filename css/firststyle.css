@@ -33,13 +33,13 @@ body {
 }
 
 /*Navbar with dropdown*/
-<!--ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #365E95;
-}-->
+}
 
 li {
     float: left;
