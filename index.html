@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Call JavaScript Function on Page Load</title>
-</head>
-<body onload="careerportal/career-portal-v2.7.0/index.html">
+<html> 
+  <head> 
+    <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("careerportal/career-portal-v2.7.0/index.html"); 
+    });
+    </script> 
+  </head> 
 
-    <ul id="container"></ul>
-
-   
-   
-</body>
-
+  <body> 
+     <div id="includedContent"></div>
+  </body> 
 </html>
